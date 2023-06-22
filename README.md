@@ -10,7 +10,7 @@ This project aims to implement image similarity using the ANNOY library and PyTo
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://drive.google.com/uc?export=download&id=1tCTls7vv4pj4knJ6A1DHj3GjE06opxpb" alt="Image 1" style="width: 300px; height: 300px; margin: 10px;">
-    <img src="./data/assets/12990-754779326-picture%20of%20a%20tree%20that%20doesn't%20look%20okay.png" alt="Image 2" style="width: 300px; height: 300px; margin: 10px;">
+    <img src="./data/assets/image2.png" alt="Image 2" style="width: 300px; height: 300px; margin: 10px;">
     <img src="./data/assets/a-table-with-plates-of-food-and-cups-of-tea-dht3cb4j.png" alt="Image 3" style="width: 300px; height: 300px; margin: 10px;">
     <img src="./data/assets/autumn-trees-on-a-road-lt5uanoi.png" alt="Image 4" style="width: 300px; height: 300px; margin: 10px;">
 </div>
