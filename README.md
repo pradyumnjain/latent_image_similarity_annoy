@@ -15,6 +15,7 @@ This project aims to implement image similarity using the ANNOY library and PyTo
     <img src="./data/assets/autumn-trees-on-a-road-lt5uanoi.png" alt="Image 4" style="width: 400px; height: 400px; margin: 10px;">
 </div>
 
+<br>
 
 | Documents | Trees | Query Documents | Query Time |
 | --------- | ------| --------------- | ---------- |
